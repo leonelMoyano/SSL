@@ -1,11 +1,12 @@
-# SSL
-## Trabajo Practico 0 - Hola mundo
+# Sintaxis y Semántica de los Lenguajes
+## Alumno
 
-Para compilar el archivo fuente puede correrse el siguiente comando:
+Nombre: Leonel Alejandro
 
-``` gcc hello.c -std=c11 -o hello ```
+Apellido: Moyano
 
-Luego se puede correr y obtener la salida por un archivo de la siguiente forma:
+Curso: K2051
 
-``` ./hello > salida.txt ```
+Año de cursada: 2018
 
+Nro. de legajo: 1636194

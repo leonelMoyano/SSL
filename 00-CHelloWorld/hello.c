@@ -1,3 +1,9 @@
+/* hello.c
+ * Hello World
+ * leonelMoyano
+ * 20180405
+ */
+
 #include<stdio.h>
 
 int main(void){
@@ -5,4 +11,3 @@ int main(void){
     return 0;
 
 }
-
